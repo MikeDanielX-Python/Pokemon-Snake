@@ -1,2 +1,8 @@
-# Pokemon-Snake
-2D Snake model of a Pokemon Battle
+# Installation of Libraries
+In the IDE that you are using, remember to import the following Libraries:
+
+import os
+
+import random
+
+import readchar
